@@ -13,12 +13,4 @@ These ‘seed values’ must be set by you: F0 = 1, F1 = 1
 
 Modify your program so it can handle any number of elements in your array:
 - Initialize the 1st two elements of your array to 1, 1 using an array initializer
-Your code should prompt the user for the number of elements of the Fibonacci sequence to calculate.
-
-
-You should manually test your program manually for boundary conditions. As you find bugs or
-issues you should modify your code in ways that correct or prevent the problem conditions. Make
-sure to document these corrections in your code by using clear comments.
-Think of a clever and inventive way to check the correctness of each Fibonacci element as you
-calculate it. There is a way to do this without having to know any details about data types or
-otherwise.
+Your code should prompt the user for the number of elements of the Fibonacci sequence to calculate
